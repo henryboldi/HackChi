@@ -4,11 +4,9 @@ body {
   font-size: 14px;
   line-height: 20px;
 }
-p {
-  color: #6F6F70;
-}
+
 h1 {
-  margin: 10px 0px;
+  text-align: center;
   font-size: 38px;
   line-height: 44px;
   font-weight: 700;
@@ -43,8 +41,21 @@ h6 {
   line-height: 18px;
   font-weight: 700;
 }
+img {
+    max-width: 100%;
+}
 p {
   margin-bottom: 5px;
+  color: #6F6F70;
+}
+
+font {
+  color: #149CFF;
+}
+
+.light {
+  color: #6F6F70;
+
 }
 
 ul {
