@@ -8,7 +8,7 @@ body {
 h1 {
   text-align: center;
   font-size: 38px;
-  line-height: 44px;
+  line-height: 48px;
   font-weight: 700;
 }
 h2 {
@@ -58,6 +58,14 @@ font {
 
 }
 
+section {
+  padding: 3em;
+}
+
+section#overview {
+  padding: 1em;
+}
+
 ul {
     margin: 0px auto;
     padding: 10px;
@@ -75,22 +83,18 @@ li {
 
 .faq {
   background-color: rgb(248, 248, 248);
-  padding-top: 20px;
-  margin-top: 60px;
 }
 
-.center-vert {
-  height: 640px;
+header {
   /*margin-top: 80px;*/
   background-image: url('../images/bg_image.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
-}
-.title {
   text-align: center;
-  padding-top: 70px;
+  padding: 5em 3em 4em 3em;
 }
+
 .email {
   display: block;
   width: 98%;
@@ -115,9 +119,7 @@ li {
 }
 
 #sponsors {
-  padding-top: 10px;
-  width: 1132px;
-  height: 281px;
+  height: auto;
   text-align: center;
   display:block;
   margin:auto;
@@ -168,8 +170,10 @@ input:-moz-placeholder { color:#009CFF; opacity:1;
 .form_wrap {
   padding-top: 30px;
 }
-.footer {
+footer {
+  display: block;
   text-align: center;
-  margin-top: 20px;
+  padding: 3em;
   color: #B7B7B7;
+  background-color: white;
 }
