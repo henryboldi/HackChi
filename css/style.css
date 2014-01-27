@@ -54,8 +54,7 @@ font {
 }
 
 .light {
-  color: #6F6F70;
-
+  margin-top: -50px;
 }
 
 section {
@@ -123,8 +122,8 @@ header {
   text-align: center;
   display:block;
   margin:auto;
-  opacity:0.4;
-  filter:alpha(opacity=40);
+  opacity:.6;
+  filter:alpha(opacity=.6);
 }
 
 /* all */
