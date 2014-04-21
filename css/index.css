@@ -1,0 +1,280 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.125em/1.38 Oswald;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  position: absolute;
+  top: 106px;
+  left: 0;
+  right: 0;
+  z-index: 8;
+  width: 100%;
+  height: 182px;
+  margin: 0 auto;
+}
+
+.container .image {
+  position: absolute;
+  top: -37px;
+  left: 0;
+  right: 0;
+  z-index: 4;
+  width: 112px;
+  margin: 0 auto;
+}
+
+.element {
+  float: left;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.text {
+  line-height: 1.38;
+}
+
+._button {
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 20.6666666666%;
+  height: 57px;
+  margin: 0 auto;
+  border-radius: 3px;
+  font-size: 0.889em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+}
+
+.element-1 {
+  position: relative;
+  z-index: 0;
+  height: 550px;
+  margin-top: -11px;
+  background: rgba(21, 29, 55, 0.47);
+  background: -webkit-linear-gradient(0deg, rgba(21, 29, 55, 0.47) 0%, rgba(21, 29, 55, 0.47) 100%), url('../images/hackchilbg@2x.png') rgba(222, 222, 222, 0);
+  background:    -moz-linear-gradient(0deg, rgba(21, 29, 55, 0.47) 0%, rgba(21, 29, 55, 0.47) 100%), url('../images/hackchilbg@2x.png') rgba(222, 222, 222, 0);
+  background:      -o-linear-gradient(0deg, rgba(21, 29, 55, 0.47) 0%, rgba(21, 29, 55, 0.47) 100%), url('../images/hackchilbg@2x.png') rgba(222, 222, 222, 0);
+  background:     -ms-linear-gradient(0deg, rgba(21, 29, 55, 0.47) 0%, rgba(21, 29, 55, 0.47) 100%), url('../images/hackchilbg@2x.png') rgba(222, 222, 222, 0);
+  background:         linear-gradient(450deg, rgba(21, 29, 55, 0.47) 0%, rgba(21, 29, 55, 0.47) 100%), url('../images/hackchilbg@2x.png') rgba(222, 222, 222, 0);
+  background-repeat: repeat, no-repeat;
+  background-size: 100% 100%, contain;
+  background-position: 0% 0%, left top;
+  background-attachment: scroll, fixed;
+}
+
+.element-2 {
+  position: relative;
+  clear: both;
+  z-index: 1;
+  height: 155px;
+  background-color: rgb(17, 17, 18);
+}
+
+.element-3 {
+  position: relative;
+  clear: both;
+  z-index: 11;
+  height: 276px;
+  background-color: rgb(255, 255, 255);
+}
+
+.element-4 {
+  position: relative;
+  z-index: 2;
+  height: 509px;
+  margin-top: -30px;
+  background: rgb(222, 222, 222);
+  background: -webkit-linear-gradient(0deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('../images/wright_entrance.jpg') rgb(222, 222, 222);
+  background:    -moz-linear-gradient(0deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('../images/wright_entrance.jpg') rgb(222, 222, 222);
+  background:      -o-linear-gradient(0deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('../images/wright_entrance.jpg') rgb(222, 222, 222);
+  background:     -ms-linear-gradient(0deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('../images/wright_entrance.jpg') rgb(222, 222, 222);
+  background:         linear-gradient(450deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('../images/wright_entrance.jpg') rgb(222, 222, 222);
+  background-repeat: repeat, no-repeat;
+  background-size: auto auto, cover;
+  background-position: 0% 0%, center center;
+}
+
+.element-5 {
+  clear: both;
+  height: 339px;
+  background-color: rgb(255, 255, 255);
+}
+
+.image-1 {
+  position: absolute;
+  top: 809px;
+  left: 58.6666666666%;
+  z-index: 17;
+  width: 258px;
+}
+
+.image-3 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 15;
+  width: 249px;
+  margin: -213px 0 0 20.3333333333%;
+}
+
+.image-4 {
+  position: relative;
+  float: left;
+  z-index: 16;
+  width: 192px;
+  margin: -174px 0 0 40.5%;
+}
+
+.text-1 {
+  display: inline-block;
+  position: absolute;
+  top: 1585px;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 1em;
+  font-weight: 300;
+  text-align: center;
+  color: rgb(17, 17, 18);
+}
+
+.text-2 {
+  display: inline-block;
+  position: absolute;
+  top: 1536px;
+  left: 0;
+  right: 0;
+  z-index: 19;
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 1.556em;
+  text-align: center;
+  color: rgb(17, 17, 18);
+}
+
+.text-3 {
+  display: inline-block;
+  position: absolute;
+  top: 1232px;
+  left: 0;
+  right: 0;
+  z-index: 14;
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 1em;
+  font-weight: 300;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-4 {
+  display: inline-block;
+  position: absolute;
+  top: 1187px;
+  left: 0;
+  right: 0;
+  z-index: 13;
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 1.556em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-5 {
+  display: inline-block;
+  position: absolute;
+  top: 734px;
+  left: 0;
+  right: 0;
+  z-index: 12;
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 1.222em;
+  font-weight: 300;
+  text-align: center;
+  color: rgb(17, 17, 18);
+}
+
+.text-6 {
+  position: absolute;
+  top: 148px;
+  left: 0;
+  right: 0;
+  z-index: 6;
+  width: 30%;
+  margin: 0 auto;
+  font-size: 1em;
+  font-weight: 300;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-7 {
+  display: inline-block;
+  position: absolute;
+  top: 93px;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  width: 577px;
+  margin: 0 auto;
+  font-size: 1.889em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-8 {
+  float: left;
+  margin: 519px 0 0 51.3333333333%;
+  font-size: 0.889em;
+  font-weight: 400;
+  color: rgb(0,0,0);
+}
+
+.text-9 {
+  display: inline-block;
+  position: absolute;
+  top: 603px;
+  left: 0;
+  right: 0;
+  z-index: 3;
+  margin: 0 auto;
+  font-size: 1.278em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button-1 {
+  top: 1654px;
+  z-index: 21;
+  background-color: rgb(10, 130, 255);
+  color: rgb(255, 255, 255);
+}
+
+._button-2 {
+  top: 409px;
+  z-index: 10;
+  border: 2px solid rgb(10, 130, 255);
+  background-color: rgba(10, 130, 255, 0);
+  color: rgb(10, 130, 255);
+}
+
+._button-3 {
+  top: 332px;
+  z-index: 9;
+  background-color: rgb(10, 130, 255);
+  color: rgb(255, 255, 255);
+}
