@@ -94,11 +94,11 @@ body {
   height: 509px;
   margin-top: -30px;
   background: rgb(222, 222, 222);
-  background: -webkit-linear-gradient(0deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('../images/wright_entrance.jpg') rgb(222, 222, 222);
-  background:    -moz-linear-gradient(0deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('../images/wright_entrance.jpg') rgb(222, 222, 222);
-  background:      -o-linear-gradient(0deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('../images/wright_entrance.jpg') rgb(222, 222, 222);
-  background:     -ms-linear-gradient(0deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('../images/wright_entrance.jpg') rgb(222, 222, 222);
-  background:         linear-gradient(450deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('../images/wright_entrance.jpg') rgb(222, 222, 222);
+  background: -webkit-linear-gradient(0deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('http://upload.wikimedia.org/wikipedia/commons/0/08/Chicago_Theatre_sign_Close_up.jpg') rgb(222, 222, 222);
+  background:    -moz-linear-gradient(0deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('http://upload.wikimedia.org/wikipedia/commons/0/08/Chicago_Theatre_sign_Close_up.jpg') rgb(222, 222, 222);
+  background:      -o-linear-gradient(0deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('http://upload.wikimedia.org/wikipedia/commons/0/08/Chicago_Theatre_sign_Close_up.jpg') rgb(222, 222, 222);
+  background:     -ms-linear-gradient(0deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('http://upload.wikimedia.org/wikipedia/commons/0/08/Chicago_Theatre_sign_Close_up.jpg') rgb(222, 222, 222);
+  background:         linear-gradient(450deg, rgba(0, 26, 102, 0.47) 0%, rgba(0, 26, 102, 0.47) 100%), url('http://upload.wikimedia.org/wikipedia/commons/0/08/Chicago_Theatre_sign_Close_up.jpg') rgb(222, 222, 222);
   background-repeat: repeat, no-repeat;
   background-size: auto auto, cover;
   background-position: 0% 0%, center center;
